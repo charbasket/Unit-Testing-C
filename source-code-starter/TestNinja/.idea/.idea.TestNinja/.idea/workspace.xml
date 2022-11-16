@@ -11,6 +11,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -140,7 +147,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "configurable.group.editor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "rider.code.cleanup.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -189,7 +199,7 @@
       <updated>1507227824194</updated>
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
-      <workItem from="1668604744491" duration="1706000" />
+      <workItem from="1668604744491" duration="3953000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
