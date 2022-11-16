@@ -194,7 +194,7 @@
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1668604744491" duration="3953000" />
       <workItem from="1668608753212" duration="2584000" />
-      <workItem from="1668611385111" duration="695000" />
+      <workItem from="1668611385111" duration="3095000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -288,25 +288,33 @@
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Fundamentals 40% 61/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fundamentals 49% 52/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fundamentals 49% 52/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="FizzBuzz 100% 0/9" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
