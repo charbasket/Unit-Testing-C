@@ -11,13 +11,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://C:/Documents/Unit Testing C#/source-code-starter/TestNinja/TestNinja.UnitTest/MathTests.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
@@ -144,16 +137,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;rider.code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -200,6 +193,8 @@
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1668604744491" duration="3953000" />
+      <workItem from="1668608753212" duration="2584000" />
+      <workItem from="1668611385111" duration="695000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -283,6 +278,39 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="150" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="858" />
+    <coverage-tree-state>
+      <expand>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+        <path>
+          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
+          <item name="Total 45% 152/277" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 21% 152/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Fundamentals 40% 61/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+        </path>
+      </expand>
+      <select />
+    </coverage-tree-state>
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
