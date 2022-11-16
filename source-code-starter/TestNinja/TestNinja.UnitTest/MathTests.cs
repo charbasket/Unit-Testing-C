@@ -19,9 +19,23 @@ namespace TestNinja.UnitTest
         
         // TearDown: it get`s called after each test
         
-        
+        // All the test do the same but with different values for a,b
+        // It´s better to create a test with parameters
+        [Test]
+        // We can pass the values of the parameters via TestCase
+        [TestCase(2,1,2)]
+        [TestCase(1,2,2)]
+        [TestCase(1,1,1)]
+        public void Max_WhenCalled_ReturnTheGreaterArgument(int a, int b, int expectedResult)
+        {
+            var result = _math.Max(a, b);
+            
+            Assert.That(result==expectedResult);
+        }
         
         [Test]
+        // We can ignore test and describe the reason
+        [Ignore("Because we already test this in the previous test")]
         public void Add_WhenCalled_ReturnSumOfArguments()
         {
             
@@ -52,6 +66,7 @@ namespace TestNinja.UnitTest
             
             Assert.That(result == 1);
         }
+        
         
     }
 }
