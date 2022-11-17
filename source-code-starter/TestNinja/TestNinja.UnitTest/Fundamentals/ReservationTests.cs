@@ -1,8 +1,7 @@
-﻿using System;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 using TestNinja.Fundamentals;
 
-namespace TestNinja.UnitTest
+namespace TestNinja.UnitTest.Fundamentals
 {
     [TestFixture]
     public class ReservationTests
@@ -14,12 +13,12 @@ namespace TestNinja.UnitTest
             var reservation = new Reservation();
 
             // Act
-            var result = reservation.CanBeCancelledBy(new User() { IsAdmin = true });
+            var result = reservation.CanBeCancelledBy(new User { IsAdmin = true });
 
             // Assert
             Assert.IsTrue(result);
             Assert.That(result, Is.True);
-            Assert.That(result == true);
+            Assert.That(result);
         }
 
         [Test]
@@ -27,7 +26,7 @@ namespace TestNinja.UnitTest
         {
             // Arrange
             var user = new User();
-            var reservation = new Reservation() { MadeBy = user };
+            var reservation = new Reservation { MadeBy = user };
 
             // Act
             var result = reservation.CanBeCancelledBy(user);
@@ -40,7 +39,7 @@ namespace TestNinja.UnitTest
         public void CanBeCancelledBy_AnotherUserCancelling_ReturnsFalse()
         {
             // Arrange
-            var reservation = new Reservation() { MadeBy = new User() };
+            var reservation = new Reservation { MadeBy = new User() };
 
             // Act
             var result = reservation.CanBeCancelledBy(new User());
@@ -48,6 +47,5 @@ namespace TestNinja.UnitTest
             // Assert
             Assert.IsFalse(result);
         }
-
     }
 }

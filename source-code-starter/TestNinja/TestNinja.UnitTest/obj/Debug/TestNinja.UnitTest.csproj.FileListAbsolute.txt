@@ -29,3 +29,8 @@ C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bi
 C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Mono.Cecil.Rocks.dll
 C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\nunit.framework.dll
 C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\nunit.framework.xml
+C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Castle.Core.dll
+C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Moq.dll
+C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Castle.Core.xml
+C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Moq.pdb
+C:\Documents\Unit Testing C#\source-code-starter\TestNinja\TestNinja.UnitTest\bin\Debug\Moq.xml

@@ -24,6 +24,8 @@
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/05/e1b1ba61/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/898512ddb9b74303996c5d2e8d378f73364548/2c/306c5041/WebClient.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -195,7 +197,7 @@
       <workItem from="1668604744491" duration="3953000" />
       <workItem from="1668608753212" duration="2584000" />
       <workItem from="1668611385111" duration="3143000" />
-      <workItem from="1668672322629" duration="2166000" />
+      <workItem from="1668672322629" duration="22686000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -284,38 +286,30 @@
     <option name="coveragePercentColumnWidth" value="150" />
     <option name="sortOrder" value="DESCENDING" />
     <option name="sortedColumn" value="1" />
-    <option name="symbolColumnWidth" value="858" />
+    <option name="symbolColumnWidth" value="1250" />
     <coverage-tree-state>
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 56% 208/476" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 56% 208/476" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 40% 137/229" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 56% 208/476" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 40% 137/229" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 40% 137/229" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Fundamentals 49% 52/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-        </path>
-        <path>
-          <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 48% 163/313" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="TestNinja 26% 143/192" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Fundamentals 49% 52/101" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="FizzBuzz 100% 0/9" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 56% 208/476" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 40% 137/229" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="TestNinja 40% 137/229" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Mocking 13% 112/128" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />
